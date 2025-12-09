@@ -3,7 +3,7 @@ Computer vision annotation sample project using Label Studio. Beds and chairs th
 
 ## 📂 Content
 - Brief annotation guide
-- 70 original images (PNG format)
+- 70 original images (PNG format, from Kaggle)
 - Annotated images (JSON format)
 
 ## 🙋‍♂️ Author
